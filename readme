@@ -1,0 +1,11 @@
+Compiler - gcc
+Program language - C
+
+Execution for program 
+
+step 1: make 
+step 2: ./program5 createkn01 -k knapsack01.txt
+step 3: ./program5 bruteforce -k knapsack01.txt
+step 4: ./program5 dynpro -k knapsack01.txt
+step 5: ./program5 backtrack -k knapsack01.txt
+
